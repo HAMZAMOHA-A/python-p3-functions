@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-from functions import greet_programmer, greet, greet_with_default, \
-                        add, halve
+from functions import greet_programmer, greet, greet_with_default, add, halve
 
 import io
 import sys
